@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Elementum
-# Addon id: plugin.video.elementum
+# Addon Name: projectx
+# Addon id: plugin.video.projectx
 # Addon Provider: elgatito
 #
 msgid ""
@@ -252,8 +252,8 @@ msgid "Username"
 msgstr "Korisničko ime"
 
 msgctxt "#30058"
-msgid "Authorize Elementum"
-msgstr "Ovjeri Elementum"
+msgid "Authorize projectx"
+msgstr "Ovjeri projectx"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -417,20 +417,20 @@ msgstr "Samo aktivni torrenti"
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Elementum se srušio, ponovno pokretanje..."
+msgid "projectx has crashed, restarting..."
+msgstr "projectx se srušio, ponovno pokretanje..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Elementum"
-msgstr "Morate ponovno pokrenuti Kodi prije korištenja Elementuma"
+msgid "You must restart Kodi before using projectx"
+msgstr "Morate ponovno pokrenuti Kodi prije korištenja projectxa"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Ovaj dodatak se može pokrenuti samo iz Elementuma"
+msgid "This add-on can only be run from within projectx"
+msgstr "Ovaj dodatak se može pokrenuti samo iz projectxa"
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr "Nemoguć pronalazak Elementum binarne datoteke[CR]Potrebna platforma:"
+msgid "Unable to find projectx binary[CR]Required platform:"
+msgstr "Nemoguć pronalazak projectx binarne datoteke[CR]Potrebna platforma:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -481,8 +481,8 @@ msgid "TV show scraper used by Kodi library"
 msgstr "Sakupljač TV serija koje koristi Kodi videoteka"
 
 msgctxt "#30116"
-msgid "Looks like Elementum is still starting up, give it a few seconds..."
-msgstr "Izgleda da se Elementum još uvijek pokreće, pričekajte nekoliko sekundi..."
+msgid "Looks like projectx is still starting up, give it a few seconds..."
+msgstr "Izgleda da se projectx još uvijek pokreće, pričekajte nekoliko sekundi..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
@@ -493,8 +493,8 @@ msgid "Scraping trackers..."
 msgstr "Sakupljanje pratitelja..."
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
-msgstr "Podržite razvoj Elementuma posjetom[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
+msgid "Please support projectx development by visiting[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
+msgstr "Podržite razvoj projectxa posjetom[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -532,7 +532,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr "Nema dostupnog JSON-RPC povezivanja za Kodi.[CR]Omogući obje mogućnosti upravljanja aplikacijom u postavkama Usluge / Upravljanje i ponovno pokrenite Kodi."
 
-# Elementum daemon
+# projectx daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Predmemorija obrisana"
@@ -566,8 +566,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nema dovoljno dostupnog slobodnog prostora na lokaciji preuzimanja."
 
 msgctxt "#30208"
-msgid "Elementum daemon has started"
-msgstr "Elementum pozadinski program je pokrenut"
+msgid "projectx daemon has started"
+msgstr "projectx pozadinski program je pokrenut"
 
 msgctxt "#30209"
 msgid "Search"
@@ -642,8 +642,8 @@ msgid "Daemon error"
 msgstr "Greška pozadinskog programa"
 
 msgctxt "#30227"
-msgid "Error updating Elementum daemon"
-msgstr "Greška pri nadopuni pozadinskog programa Elementuma"
+msgid "Error updating projectx daemon"
+msgstr "Greška pri nadopuni pozadinskog programa projectxa"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -818,16 +818,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Podudaranje je već pronađeno u vašim aktivnim torrentima, reproducirati ga?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Sada postoji višestruki pružatelj usluge za Elementum nazvan [COLOR FFFF6B00]Burst[/COLOR], želite li ga instalirati?"
+msgid "There is now an official multi-provider for projectx called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Sada postoji višestruki pružatelj usluge za projectx nazvan [COLOR FFFF6B00]Burst[/COLOR], želite li ga instalirati?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Instalacija je uspješna, uživajte u Elementum [COLOR FFFF6B00]Burstu[/COLOR]!"
+msgid "Installation successful, enjoy projectx [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalacija je uspješna, uživajte u projectx [COLOR FFFF6B00]Burstu[/COLOR]!"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
-msgstr "Nažalost... Izgleda da nismo uspjeli instalirati [COLOR FFFF6B00]Burst[/COLOR] automatski, idite u Elementum repozitorij, zatim pod Program dodaci odjeljkom ga instalirajte."
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the projectx Repository, then under the Program add-ons section to install it."
+msgstr "Nažalost... Izgleda da nismo uspjeli instalirati [COLOR FFFF6B00]Burst[/COLOR] automatski, idite u projectx repozitorij, zatim pod Program dodaci odjeljkom ga instalirajte."
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -862,8 +862,8 @@ msgid "List added to library"
 msgstr "Popis dodan u videoteku"
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Elementum"
-msgstr "Nije preostalo ništa za uklanjanje iz Elementuma"
+msgid "Nothing left to remove from projectx"
+msgstr "Nije preostalo ništa za uklanjanje iz projectxa"
 
 msgctxt "#30283"
 msgid "Merge to library"
@@ -1750,8 +1750,8 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr "Koristi libtorrent.config za zaobilaženje postavki torrent pogona"
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr "Nalazi se u USERDATA/plugin.video.elementum/libtorrent.config datoteci[CR]Postavke su primijenjene automatski. Posjetite https://libtorrent.org za više informacija."
+msgid "Located at USERDATA/plugin.video.projectx/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgstr "Nalazi se u USERDATA/plugin.video.projectx/libtorrent.config datoteci[CR]Postavke su primijenjene automatski. Posjetite https://libtorrent.org za više informacija."
 
 msgctxt "#30505"
 msgid "Add episode number to the title"
@@ -2078,7 +2078,7 @@ msgid "Enable library integration with Kodi"
 msgstr ""
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgid "If disabled - projectx will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
 msgstr ""
 
 msgctxt "#30587"
@@ -2226,8 +2226,8 @@ msgstr ""
 #~ msgstr "Zadano iz libtorrenta (preporučljivo)"
 
 #~ msgctxt "#30103"
-#~ msgid "Unable to find Elementum binary"
-#~ msgstr "Nemoguć pronalazak Elementumove binarne datoteke"
+#~ msgid "Unable to find projectx binary"
+#~ msgstr "Nemoguć pronalazak projectxove binarne datoteke"
 
 #~ msgctxt "#30219"
 #~ msgid "Add/Remove from library"

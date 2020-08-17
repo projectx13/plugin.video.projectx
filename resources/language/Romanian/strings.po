@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Elementum
-# Addon id: plugin.video.elementum
+# Addon Name: projectx
+# Addon id: plugin.video.projectx
 # Addon Provider: elgatito
 #
 msgid ""
@@ -252,8 +252,8 @@ msgid "Username"
 msgstr "Nume"
 
 msgctxt "#30058"
-msgid "Authorize Elementum"
-msgstr "Autorizează Elementum"
+msgid "Authorize projectx"
+msgstr "Autorizează projectx"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -417,19 +417,19 @@ msgstr ""
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Elementum a întâmpinat probleme, se repornește..."
+msgid "projectx has crashed, restarting..."
+msgstr "projectx a întâmpinat probleme, se repornește..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Elementum"
-msgstr "Este necesar să reporniți Kodi înainte de utilizarea Elementum"
+msgid "You must restart Kodi before using projectx"
+msgstr "Este necesar să reporniți Kodi înainte de utilizarea projectx"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Acesta extensie poate fi rulată doar din Elementum"
+msgid "This add-on can only be run from within projectx"
+msgstr "Acesta extensie poate fi rulată doar din projectx"
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
+msgid "Unable to find projectx binary[CR]Required platform:"
 msgstr ""
 
 msgctxt "#30104"
@@ -481,7 +481,7 @@ msgid "TV show scraper used by Kodi library"
 msgstr "Scraper TV folosit de librărie"
 
 msgctxt "#30116"
-msgid "Looks like Elementum is still starting up, give it a few seconds..."
+msgid "Looks like projectx is still starting up, give it a few seconds..."
 msgstr ""
 
 msgctxt "#30117"
@@ -493,7 +493,7 @@ msgid "Scraping trackers..."
 msgstr ""
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
+msgid "Please support projectx development by visiting[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
 msgstr ""
 
 msgctxt "#30142"
@@ -532,7 +532,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr ""
 
-# Elementum daemon
+# projectx daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache-ul a fost șters"
@@ -566,8 +566,8 @@ msgid "Not enough space available on the download path."
 msgstr "Loc insuficient în calea pentru descărcare"
 
 msgctxt "#30208"
-msgid "Elementum daemon has started"
-msgstr "Serviciul Elementum a pornit"
+msgid "projectx daemon has started"
+msgstr "Serviciul projectx a pornit"
 
 msgctxt "#30209"
 msgid "Search"
@@ -642,8 +642,8 @@ msgid "Daemon error"
 msgstr "Eroare serviciu"
 
 msgctxt "#30227"
-msgid "Error updating Elementum daemon"
-msgstr "Eroare în actualizarea serviciului Elementum"
+msgid "Error updating projectx daemon"
+msgstr "Eroare în actualizarea serviciului projectx"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -818,16 +818,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "S-a găsit un fișier asemănător in torentele tale active, îl redau?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Există un multi furnizor oficial pentru Elementum numit  [COLOR FFFF6B00]Burst[/COLOR], vrei să-l instalezi acum?"
+msgid "There is now an official multi-provider for projectx called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Există un multi furnizor oficial pentru projectx numit  [COLOR FFFF6B00]Burst[/COLOR], vrei să-l instalezi acum?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Instalarea s-a efectuat cu succes, bucură-te de Elementum [COLOR FFFF6B00]Burst[/COLOR] !"
+msgid "Installation successful, enjoy projectx [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalarea s-a efectuat cu succes, bucură-te de projectx [COLOR FFFF6B00]Burst[/COLOR] !"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
-msgstr "Opa... Se pare ca nu s-a putut instala [COLOR FFFF6B00]Burst[/COLOR] automat. Instalează-l manual din Repository-ul Elementum, secțiunea Program add-ons"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the projectx Repository, then under the Program add-ons section to install it."
+msgstr "Opa... Se pare ca nu s-a putut instala [COLOR FFFF6B00]Burst[/COLOR] automat. Instalează-l manual din Repository-ul projectx, secțiunea Program add-ons"
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -862,7 +862,7 @@ msgid "List added to library"
 msgstr ""
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Elementum"
+msgid "Nothing left to remove from projectx"
 msgstr ""
 
 msgctxt "#30283"
@@ -1750,7 +1750,7 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr ""
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgid "Located at USERDATA/plugin.video.projectx/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
 msgstr ""
 
 msgctxt "#30505"
@@ -2078,7 +2078,7 @@ msgid "Enable library integration with Kodi"
 msgstr ""
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgid "If disabled - projectx will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
 msgstr ""
 
 msgctxt "#30587"
@@ -2214,5 +2214,5 @@ msgstr ""
 #~ msgstr "Implicit de la libtorrent (acceptabil)"
 
 #~ msgctxt "#30103"
-#~ msgid "Unable to find Elementum binary"
-#~ msgstr "Nu se găsește binarul Elementum"
+#~ msgid "Unable to find projectx binary"
+#~ msgstr "Nu se găsește binarul projectx"

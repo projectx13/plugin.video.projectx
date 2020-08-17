@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Elementum
-# Addon id: plugin.video.elementum
+# Addon Name: projectx
+# Addon id: plugin.video.projectx
 # Addon Provider: elgatito
 #
 msgid ""
@@ -249,7 +249,7 @@ msgid "Username"
 msgstr ""
 
 msgctxt "#30058"
-msgid "Authorize Elementum"
+msgid "Authorize projectx"
 msgstr ""
 
 msgctxt "#30059"
@@ -414,19 +414,19 @@ msgstr ""
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Elementum spadol, reštartovanie..."
+msgid "projectx has crashed, restarting..."
+msgstr "projectx spadol, reštartovanie..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Elementum"
+msgid "You must restart Kodi before using projectx"
 msgstr "Prosím reštartujte Kodi pred spustením Qualsara"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Tento doplnok je možné spustiť len cez Elementum"
+msgid "This add-on can only be run from within projectx"
+msgstr "Tento doplnok je možné spustiť len cez projectx"
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
+msgid "Unable to find projectx binary[CR]Required platform:"
 msgstr ""
 
 msgctxt "#30104"
@@ -478,7 +478,7 @@ msgid "TV show scraper used by Kodi library"
 msgstr ""
 
 msgctxt "#30116"
-msgid "Looks like Elementum is still starting up, give it a few seconds..."
+msgid "Looks like projectx is still starting up, give it a few seconds..."
 msgstr ""
 
 msgctxt "#30117"
@@ -490,7 +490,7 @@ msgid "Scraping trackers..."
 msgstr ""
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
+msgid "Please support projectx development by visiting[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
 msgstr ""
 
 msgctxt "#30142"
@@ -529,7 +529,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr ""
 
-# Elementum daemon
+# projectx daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache vymazaná"
@@ -563,8 +563,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nedostatok miesta pre uloženie ."
 
 msgctxt "#30208"
-msgid "Elementum daemon has started"
-msgstr "Elementum daemon sa práve spustil"
+msgid "projectx daemon has started"
+msgstr "projectx daemon sa práve spustil"
 
 msgctxt "#30209"
 msgid "Search"
@@ -639,8 +639,8 @@ msgid "Daemon error"
 msgstr "Chyba daemona "
 
 msgctxt "#30227"
-msgid "Error updating Elementum daemon"
-msgstr "Chyba updatovania Elementum daemona"
+msgid "Error updating projectx daemon"
+msgstr "Chyba updatovania projectx daemona"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -815,15 +815,15 @@ msgid "Match found in your active torrents, play it?"
 msgstr ""
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgid "There is now an official multi-provider for projectx called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
 msgstr ""
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy projectx [COLOR FFFF6B00]Burst[/COLOR]!"
 msgstr ""
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the projectx Repository, then under the Program add-ons section to install it."
 msgstr ""
 
 msgctxt "#30274"
@@ -859,7 +859,7 @@ msgid "List added to library"
 msgstr ""
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Elementum"
+msgid "Nothing left to remove from projectx"
 msgstr ""
 
 msgctxt "#30283"
@@ -1747,7 +1747,7 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr ""
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgid "Located at USERDATA/plugin.video.projectx/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
 msgstr ""
 
 msgctxt "#30505"
@@ -2075,7 +2075,7 @@ msgid "Enable library integration with Kodi"
 msgstr ""
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgid "If disabled - projectx will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
 msgstr ""
 
 msgctxt "#30587"
@@ -2211,5 +2211,5 @@ msgstr ""
 #~ msgstr "Spracavanie torrentov na pozadí"
 
 #~ msgctxt "#30103"
-#~ msgid "Unable to find Elementum binary"
-#~ msgstr "Elementum binary nenájdený"
+#~ msgid "Unable to find projectx binary"
+#~ msgstr "projectx binary nenájdený"

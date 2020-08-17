@@ -11297,16 +11297,16 @@
         ({
             NODE_ENV: "production",
             PUBLIC_URL: "/web"
-        }).REACT_APP_ELEMENTUMD_HOST && {
+        }).REACT_APP_projectxD_HOST && {
             NODE_ENV: "production",
             PUBLIC_URL: "/web"
-        }.REACT_APP_ELEMENTUMD_PORT && (y = "http://" + {
+        }.REACT_APP_projectxD_PORT && (y = "http://" + {
             NODE_ENV: "production",
             PUBLIC_URL: "/web"
-        }.REACT_APP_ELEMENTUMD_HOST + ":" + {
+        }.REACT_APP_projectxD_HOST + ":" + {
             NODE_ENV: "production",
             PUBLIC_URL: "/web"
-        }.REACT_APP_ELEMENTUMD_PORT);
+        }.REACT_APP_projectxD_PORT);
         var g = [{
                 text: "Movies",
                 value: 1,
@@ -11717,7 +11717,7 @@
                         searchQuery: ""
                     })
                 }, r.handleResultSelect = function(e, t) {
-                    var n = t.data.path.replace("plugin://plugin.video.elementum", "");
+                    var n = t.data.path.replace("plugin://plugin.video.projectx", "");
                     n.indexOf("episodes") !== -1 ? r.setState({
                         searchQuery: r.searchInput.props.value + " " + t.title
                     }) : n.indexOf("episode") === -1 || n.indexOf("links") === -1 && !n.indexOf("play") ? r.setState({
@@ -12009,7 +12009,7 @@
                         href: y + "/web/"
                     }, s.default.createElement("img", {
                         src: p.default,
-                        alt: "Elementum",
+                        alt: "projectx",
                         height: "100%"
                     }))), s.default.createElement("div", {
                         className: "App-section"

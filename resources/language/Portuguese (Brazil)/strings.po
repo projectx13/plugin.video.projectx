@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Elementum
-# Addon id: plugin.video.elementum
+# Addon Name: projectx
+# Addon id: plugin.video.projectx
 # Addon Provider: elgatito
 #
 msgid ""
@@ -248,8 +248,8 @@ msgid "Username"
 msgstr "Usuário"
 
 msgctxt "#30058"
-msgid "Authorize Elementum"
-msgstr "Autorizar Elementum"
+msgid "Authorize projectx"
+msgstr "Autorizar projectx"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -413,19 +413,19 @@ msgstr "Apenas torrent ativo"
 
 # Interface
 msgctxt "#30100"
-msgid "Elementum has crashed, restarting..."
-msgstr "Elementum parou de funcionar. Reiniciando..."
+msgid "projectx has crashed, restarting..."
+msgstr "projectx parou de funcionar. Reiniciando..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Elementum"
-msgstr "Você precisa reiniciar o Kodi antes de usar o Elementum"
+msgid "You must restart Kodi before using projectx"
+msgstr "Você precisa reiniciar o Kodi antes de usar o projectx"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Elementum"
-msgstr "Este addon só pode ser executado pelo Elementum"
+msgid "This add-on can only be run from within projectx"
+msgstr "Este addon só pode ser executado pelo projectx"
 
 msgctxt "#30103"
-msgid "Unable to find Elementum binary[CR]Required platform:"
+msgid "Unable to find projectx binary[CR]Required platform:"
 msgstr ""
 
 msgctxt "#30104"
@@ -477,8 +477,8 @@ msgid "TV show scraper used by Kodi library"
 msgstr "TV scraper usada na biblioteca"
 
 msgctxt "#30116"
-msgid "Looks like Elementum is still starting up, give it a few seconds..."
-msgstr "Elementum ainda está iniciando, aguarde alguns segundos..."
+msgid "Looks like projectx is still starting up, give it a few seconds..."
+msgstr "projectx ainda está iniciando, aguarde alguns segundos..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
@@ -489,8 +489,8 @@ msgid "Scraping trackers..."
 msgstr "Verificando trackers..."
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
-msgstr "Por favor apoie o desenvolvimento do Elementum visitando[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
+msgid "Please support projectx development by visiting[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
+msgstr "Por favor apoie o desenvolvimento do projectx visitando[CR]https://projectx.surge.sh/donate/ or https://projectxorg.github.io/donate/"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -528,7 +528,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr ""
 
-# Elementum daemon
+# projectx daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache apagado"
@@ -562,8 +562,8 @@ msgid "Not enough space available on the download path."
 msgstr "Não há espaço suficiente no local de download."
 
 msgctxt "#30208"
-msgid "Elementum daemon has started"
-msgstr "O serviço Elementum iniciou"
+msgid "projectx daemon has started"
+msgstr "O serviço projectx iniciou"
 
 msgctxt "#30209"
 msgid "Search"
@@ -638,8 +638,8 @@ msgid "Daemon error"
 msgstr "Erro no serviço"
 
 msgctxt "#30227"
-msgid "Error updating Elementum daemon"
-msgstr "Erro ao atualizar o serviço Elementum"
+msgid "Error updating projectx daemon"
+msgstr "Erro ao atualizar o serviço projectx"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -814,16 +814,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Encontrado em seus torrents ativos, reproduzir?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Já existe um multi-provedor oficial para o Elementum chamado [COLOR FFFF6B00]Burst[/COLOR], você gostaria de instalá-lo agora?"
+msgid "There is now an official multi-provider for projectx called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Já existe um multi-provedor oficial para o projectx chamado [COLOR FFFF6B00]Burst[/COLOR], você gostaria de instalá-lo agora?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Instalação bem sucedida, aproveite o Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy projectx [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalação bem sucedida, aproveite o projectx [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
-msgstr "Parece que não foi possível instalar [COLOR FFFF6B00]Burst[/COLOR] automaticamente, vá ao Repositório do Elementum, e depois na seção Add-ons de programas para instalá-lo."
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the projectx Repository, then under the Program add-ons section to install it."
+msgstr "Parece que não foi possível instalar [COLOR FFFF6B00]Burst[/COLOR] automaticamente, vá ao Repositório do projectx, e depois na seção Add-ons de programas para instalá-lo."
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -858,8 +858,8 @@ msgid "List added to library"
 msgstr "Lista adicionada à biblioteca"
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Elementum"
-msgstr "Não há mais nada para remover do Elementum"
+msgid "Nothing left to remove from projectx"
+msgstr "Não há mais nada para remover do projectx"
 
 msgctxt "#30283"
 msgid "Merge to library"
@@ -1746,7 +1746,7 @@ msgid "Use libtorrent.config to override torrent engine settings"
 msgstr ""
 
 msgctxt "#30504"
-msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgid "Located at USERDATA/plugin.video.projectx/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
 msgstr ""
 
 msgctxt "#30505"
@@ -2074,7 +2074,7 @@ msgid "Enable library integration with Kodi"
 msgstr ""
 
 msgctxt "#30586"
-msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgid "If disabled - projectx will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
 msgstr ""
 
 msgctxt "#30587"
@@ -2214,5 +2214,5 @@ msgstr ""
 #~ msgstr "Resumir reprodução na biblioteca"
 
 #~ msgctxt "#30103"
-#~ msgid "Unable to find Elementum binary"
-#~ msgstr "Não foi possível encontrar o programa Elementum"
+#~ msgid "Unable to find projectx binary"
+#~ msgstr "Não foi possível encontrar o programa projectx"

@@ -1,15 +1,15 @@
-[COLOR springgreen]Elementum:[/COLOR]
+[COLOR springgreen]projectx:[/COLOR]
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]Development of *plugin.video.elementum* is stopped! [/COLOR][/B]
+[B][COLOR red]Development of *plugin.video.projectx* is stopped! [/COLOR][/B]
     - Do not expect any support, help and other things like that.
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
 [B][COLOR red]0.1.57-0.1.58[/COLOR][/B]
     - Added functionality to allow using both memory and file storages. Running 'Download' from context menu will download with file storage.
-    - Fixed cleaning torrent history from Elementum settings.
+    - Fixed cleaning torrent history from projectx settings.
 
 [B][COLOR red]0.1.56[/COLOR][/B]
     - Some changes to allow running on Kodi 16 with old python and Kodi 19 with Python 3.
@@ -42,7 +42,7 @@
     - Added oindex parameter to /play to start with specific file index.
 
 [B][COLOR red]0.1.51[/COLOR][/B]
-    - Reorganized Elementum settings to make easier to understand them.
+    - Reorganized projectx settings to make easier to understand them.
     - Added option to totally disable Trakt/Kodi synchronization.
     - Added option to disable Trakt/Kodi sync when Kodi is playing anything.
     - Added option to define disk cache buffer (useful for Android/external drive users with File storage).
@@ -54,7 +54,7 @@
     - Fixes for background downloads and buffer window.
 
 [B][COLOR red]0.1.49[/COLOR][/B]
-    - Added handling of background downloads (needs context.elementum version at least 0.0.3).
+    - Added handling of background downloads (needs context.projectx version at least 0.0.3).
     - Added setting to disable Kodi library integration.
     - Added setting to disable welcome greeting.
     - Fixes for file storage and starting playback from torrents list.
@@ -74,7 +74,7 @@
 [B][COLOR red]0.1.44[/COLOR][/B]
     - Fixed CloudFlare bypass module to bypass latest CloudFlare defense.
     - Fixed issue with removing shows from the Kodi library.
-    - Added Settings links for Elementum and searchers to the main menu.
+    - Added Settings links for projectx and searchers to the main menu.
 
 [B][COLOR red]0.1.42-0.1.43[/COLOR][/B]
     - Fixed segfault issue on Linux builds, caused by static linkage. 0.1.42 release is cancelled!
@@ -90,7 +90,7 @@
 [B][COLOR red]0.1.41[/COLOR][/B]
     - Added Autoclose settings for closing Confirm Dialogs with timeout.
     - Added functionality to select which file to play, in list of active torrents.
-    - Added more Open in Kodi to Elementum settings, for different directories.
+    - Added more Open in Kodi to projectx settings, for different directories.
     - Fixed issue with not refreshing MyProgress when something changes on Trakt side.
     - Fixed issue with not settings episodes as Watched in Kodi library.
     - Changed Torrents list to reverse order.
@@ -206,7 +206,7 @@
     - Added options 
 
 [B][COLOR red]0.1.23[/COLOR][/B]
-    - Added "In Kodi library" sections, that show movies/shows added by Elementum in Kodi library.
+    - Added "In Kodi library" sections, that show movies/shows added by projectx in Kodi library.
     - Added option to resume playback N seconds earlier.
     - Added option to resume torrents with Paused/Resumed state.
 
@@ -297,7 +297,7 @@
     - Added fallback requests for empty Genres (some langages miss namings).
     - Torrent files from multiple trackers now include all of them.
     - More relevant names saved for Torrents (not the one included in torrent file, but the one we get from providers).
-    - Added NFO files generation for Movies/Shows to explicitly save IDs for Elementum/TMDB/TVDB/IMDB.
+    - Added NFO files generation for Movies/Shows to explicitly save IDs for projectx/TMDB/TVDB/IMDB.
 
 [B][COLOR red]v0.0.60[/COLOR][/B]
     - Added proper gzip handling in torrent resolve.
@@ -318,7 +318,7 @@
 
 [B][COLOR red]v0.0.56[/COLOR][/B]
     - Added usage of fanart.tv service for setting fanart.
-    - Added reading advancedsettings.xml file to adjust buffer size in Elementum.
+    - Added reading advancedsettings.xml file to adjust buffer size in projectx.
     - Changed Calendars pages.
     - More changes to progress pages.
 
@@ -404,7 +404,7 @@
 
 [B][COLOR red]v0.0.43[/COLOR][/B]
     - Migrating to another database engine to allow flexibility in the future.
-    - Library manipulations changed a lot due to database change, so it can bring bugs and errors. Please, report them on https://github.com/elgatito/plugin.video.elementum/issues website.
+    - Library manipulations changed a lot due to database change, so it can bring bugs and errors. Please, report them on https://github.com/elgatito/plugin.video.projectx/issues website.
     - Small fixes.
     - Updated torrent engine.
 
@@ -414,7 +414,7 @@
     - Small fixes.
 
 [B][COLOR red]v0.0.41[/COLOR][/B]
-    - Added Context menu add-on to Elementum repository. Allows playing any item from Kodi library, not only strm files.
+    - Added Context menu add-on to projectx repository. Allows playing any item from Kodi library, not only strm files.
     - Fixes for Kodi 16 library.
     - Updated torrent engine.
 

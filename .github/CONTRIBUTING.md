@@ -1,4 +1,4 @@
-# Contributing to Elementum
+# Contributing to projectx
 
 Looking to contribute something? **Here's how you can help.**
 
@@ -84,11 +84,11 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/scakemyer/plugin.video.elementum.git
+   git clone https://github.com/scakemyer/plugin.video.projectx.git
    # Navigate to the newly cloned directory
-   cd plugin.video.elementum
+   cd plugin.video.projectx
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/scakemyer/plugin.video.elementum.git
+   git remote add upstream https://github.com/scakemyer/plugin.video.projectx.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:

@@ -1,8 +1,8 @@
-NAME = plugin.video.elementum
+NAME = plugin.video.projectx
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
 GIT_USER = elgatito
-GIT_REPOSITORY = plugin.video.elementum
+GIT_REPOSITORY = plugin.video.projectx
 VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
 ARCHS = \
 	android_arm \
