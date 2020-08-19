@@ -1,7 +1,7 @@
 # Kodi Media Center language file
 # Addon Name: projectx
 # Addon id: plugin.video.projectx
-# Addon Provider: elgatito
+# Addon Provider: projectx13
 #
 msgid ""
 msgstr ""

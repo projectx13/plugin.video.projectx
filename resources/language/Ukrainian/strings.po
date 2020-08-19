@@ -1,14 +1,14 @@
 # Kodi Media Center language file
 # Addon Name: projectx
 # Addon id: plugin.video.projectx
-# Addon Provider: elgatito
+# Addon Provider: projectx13
 #
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
 "PO-Revision-Date: 2017-02-13 11:13+03:00\n"
-"Last-Translator: elgatito <denis.kuzmenok@gmail.com>\n"
+"Last-Translator: projectx13 <denis.kuzmenok@gmail.com>\n"
 "Language: ua\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
